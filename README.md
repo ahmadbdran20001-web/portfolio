@@ -1,4 +1,4 @@
-# Data Analysis Portfolio : 
+# Data Analysis Portfolio 
 ### 🌎👨‍👩‍👧‍👧World population(A project to explore global population data)
 link : https://github.com/ahmadbdran20001-web/world-population
 
