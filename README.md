@@ -26,6 +26,6 @@ link : https://github.com/ahmadbdran20001-web/Heart_disease
 ### 🚗⚡Accident new york(A project to analyze new york city accident data)
 link : https://github.com/ahmadbdran20001-web/accident-new-york
 
-### 💰🏠room price(A project to analyze room prices in different areas) 
+### 💰🏠Room price(A project to analyze room prices in different areas) 
 link : https://github.com/ahmadbdran20001-web/Room-price-
 
