@@ -11,7 +11,7 @@
 
 [terrorist attacks] : https://github.com/ahmadbdran20001-web/Terrorist-attacks
 
-[spotify platform] : 
+[spotify platform] : https://github.com/ahmadbdran20001-web/Spotify
 
 [heart disease] :
 
