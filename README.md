@@ -3,7 +3,7 @@
 
 [market sales] : https://github.com/ahmadbdran20001-web/market_sales
 
-[netflix] :
+[netflix] : https://github.com/ahmadbdran20001-web/NETFLIX-VIEW
 
 [video sales] :
 
