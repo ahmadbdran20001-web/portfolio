@@ -9,7 +9,7 @@
 
 [company attriotion] : https://github.com/ahmadbdran20001-web/company-attrition-
 
-[terrorist attacks] : 
+[terrorist attacks] : https://github.com/ahmadbdran20001-web/Terrorist-attacks
 
 [spotify platform] : 
 
