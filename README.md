@@ -1,7 +1,6 @@
 # Data Analysis Portfolio : 
-[world population] : https://github.com/ahmadbdran20001-web/world-population
-
-(A project to explore global population data)
+### 🌎world population(A project to explore global population data)
+link : https://github.com/ahmadbdran20001-web/world-population
 
 [market sales] : https://github.com/ahmadbdran20001-web/market_sales
 
