@@ -7,7 +7,7 @@
 
 [video sales] : https://github.com/ahmadbdran20001-web/video-sales
 
-[company attriotion] :
+[company attriotion] : https://github.com/ahmadbdran20001-web/company-attrition-
 
 [terrorist attacks] : 
 
