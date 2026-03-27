@@ -23,7 +23,7 @@ link : https://github.com/ahmadbdran20001-web/Spotify
 ### 🛌♿Heart disease Analysis  (A project to analyze the relationship between heart disease and various factors)
 link : https://github.com/ahmadbdran20001-web/Heart_disease
 
-### 🛒📱Market online Analysis  (A project )
+### 🛒📱Market online Analysis  (A project for analyzing an online retail store dataset in detail )
 link : https://github.com/ahmadbdran20001-web/Market-Online/blob/main/README.md
 
 ### 🚗⚡Accident new york Analysis  (A project to analyze new york city accident data)
