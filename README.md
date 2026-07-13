@@ -1,11 +1,16 @@
 # Data Analysis Portfolio 
 
-### 🏬💰Sales Supermarket Analyst  (A project to analysze store sales across all branches)
+### 🏬💰Supermarket Sales Analyst  (Exploring sales trends, product performance, and customer demand to improve revenue and support data-driven business decisions)
 link : https://github.com/ahmadbdran20001-web/Sales-supermarket-analyst
 
-### 🏩❌Attriotion Analyst  (A project to understand the causes of employee attrition)
+### 📊💲 B2B Revenue Operations Analyst  (Analyzing sales performance, customer behavior, pipeline efficiency, and revenue forecasting to optimize business growth)
+link : https://github.com/ahmadbdran20001-web/Revenue-Operation-Analyst-CRM-B2B-
+
+### 🏩❌ Employee Attriotion Analyst  (Analyzing employee turnover, satisfaction, and engagement to identify attrition drivers and support effective HR decision-making)
 link: https://github.com/ahmadbdran20001-web/Attrition-analyst
 
+### ☕💲 Coffee Shop Sales Analyst  (Exploring sales trends, product performance, and customer demand to improve revenue and support data-driven business decisions)
+link : 
 ### 🛌♿Heart disease Analysis  (A project to analyze the relationship between heart disease and various factors)
 link : https://github.com/ahmadbdran20001-web/Heart_disease
 
@@ -17,7 +22,5 @@ link : https://github.com/ahmadbdran20001-web/Market-Online
 link : https://github.com/ahmadbdran20001-web/Room-price-
 
 
-### 📊💲 B2B Revenue Operations Analysis  (Analyzing sales performance, customer behavior, pipeline efficiency, and revenue forecasting to optimize business growth)
-link : https://github.com/ahmadbdran20001-web/Revenue-Operation-Analyst-CRM-B2B-
 
 
