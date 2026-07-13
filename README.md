@@ -1,7 +1,7 @@
 # Data Analysis Portfolio 
 
-### 🏬💰Market sales Analysis  (A project to analysze store sales across all branches)
-link : https://github.com/ahmadbdran20001-web/market_sales
+### 🏬💰Supermarket sales Analysis  (A project to analysze store sales across all branches)
+link : https://github.com/ahmadbdran20001-web/Sales-supermarket-analyst
 
 ### 🏩❌Company attriotion Analysis  (A project to understand the causes of employee attrition)
 link: https://github.com/ahmadbdran20001-web/company-attrition-
