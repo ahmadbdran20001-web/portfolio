@@ -18,6 +18,6 @@ link : https://github.com/ahmadbdran20001-web/Room-price-
 
 
 ### 📊💲 B2B Revenue Operations Analysis  (Analyzing sales performance, customer behavior, pipeline efficiency, and revenue forecasting to optimize business growth)
-link : 
+link : https://github.com/ahmadbdran20001-web/Revenue-Operation-Analyst-CRM-B2B-
 
 
