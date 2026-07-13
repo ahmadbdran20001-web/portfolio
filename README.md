@@ -1,12 +1,10 @@
 # Data Analysis Portfolio 
 
-### 🏬💰Supermarket sales Analysis  (A project to analysze store sales across all branches)
+### 🏬💰Sales Supermarket Analyst  (A project to analysze store sales across all branches)
 link : https://github.com/ahmadbdran20001-web/Sales-supermarket-analyst
 
-### 🏩❌Company attriotion Analysis  (A project to understand the causes of employee attrition)
-link: https://github.com/ahmadbdran20001-web/company-attrition-
-
-
+### 🏩❌Attriotion Analyst  (A project to understand the causes of employee attrition)
+link: https://github.com/ahmadbdran20001-web/Attrition-analyst
 
 ### 🛌♿Heart disease Analysis  (A project to analyze the relationship between heart disease and various factors)
 link : https://github.com/ahmadbdran20001-web/Heart_disease
