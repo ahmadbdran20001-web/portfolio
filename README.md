@@ -10,7 +10,8 @@ link : https://github.com/ahmadbdran20001-web/Revenue-Operation-Analyst-CRM-B2B-
 link: https://github.com/ahmadbdran20001-web/Attrition-analyst
 
 ### ☕💲 Coffee Shop Sales Analyst  (Exploring sales trends, product performance, and customer demand to improve revenue and support data-driven business decisions)
-link : 
+link : https://github.com/ahmadbdran20001-web/sales-coffee-shop
+
 ### 🛌♿Heart disease Analysis  (A project to analyze the relationship between heart disease and various factors)
 link : https://github.com/ahmadbdran20001-web/Heart_disease
 
