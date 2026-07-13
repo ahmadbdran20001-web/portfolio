@@ -16,3 +16,8 @@ link : https://github.com/ahmadbdran20001-web/Market-Online
 ### 💰🏠Room price Analysis  (A project to analyze room prices in different areas) 
 link : https://github.com/ahmadbdran20001-web/Room-price-
 
+
+### 📊💲 B2B Revenue Operations Analysis  (Analyzing sales performance, customer behavior, pipeline efficiency, and revenue forecasting to optimize business growth)
+link : 
+
+
